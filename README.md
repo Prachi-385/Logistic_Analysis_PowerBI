@@ -169,20 +169,6 @@ Deploy automated alerts for delivery delays and vehicle maintenance requirements
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add dashboard screenshots here)
-
-| Executive Dashboard | Driver Dashboard |
-| ------------------- | ---------------- |
-| Screenshot          | Screenshot       |
-
-| Hub Dashboard | Fleet Dashboard |
-| ------------- | --------------- |
-| Screenshot    | Screenshot      |
-
----
-
 ## 🚀 Project Outcomes
 
 This project demonstrates the use of Power BI for:
