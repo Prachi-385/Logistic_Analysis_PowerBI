@@ -181,15 +181,3 @@ This project demonstrates the use of Power BI for:
 * Operational Performance Analysis
 
 The dashboard enables stakeholders to make data-driven decisions that improve operational efficiency, customer satisfaction, and resource utilization.
-
----
-
-## 👩‍💻 Author
-
-**Prachi Priya**
-
-Data Analyst | Power BI | SQL | Python | Business Intelligence
-
-LinkedIn: https://www.linkedin.com/in/prachipriya-datascientist/
-
-Portfolio: https://prachi-385.github.io/Personal-Portfolio/
